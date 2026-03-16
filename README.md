@@ -52,12 +52,8 @@ requirements.txt : File with all libraries to run the file.
    Put it on .env :
 
    GROQ_KEY_API = 'your_api_key_here'
-   
-7. **Add PDF files:**
 
-   Place the PDFs you want to process in the pdfs/ folder
-
-8. **Run the application:**
+6. **Run the application:**
    ```bash
    python main.py
    ```
